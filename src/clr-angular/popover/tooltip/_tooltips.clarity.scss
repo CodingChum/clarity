@@ -182,7 +182,7 @@
         }
 
         &.tooltip-md > .tooltip-content, .tooltip-content.tooltip-md {
-            width: $clr-tooltip-default-width - $arrow-border-width;
+            width: $clr-tooltip-default-width;
         }
 
         &.tooltip-lg > .tooltip-content, .tooltip-content.tooltip-lg {
